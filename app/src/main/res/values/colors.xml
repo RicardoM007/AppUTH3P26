@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="personas_background">#FFF8FA</color>
+    <color name="personas_surface">#FFFFFFFF</color>
+    <color name="personas_on_surface">#FF1D1B20</color>
+    <color name="personas_text_secondary">#FF5F6368</color>
+    <color name="personas_outline">#FFDADCE0</color>
 </resources>
